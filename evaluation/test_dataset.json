@@ -1,0 +1,96 @@
+{
+  "version": "1.0",
+  "description": "Test dataset for TLU Chatbot evaluation",
+  "test_cases": [
+    {
+      "id": 1,
+      "question": "Điểm chuẩn ngành Công nghệ thông tin năm 2024 là bao nhiêu? ",
+      "ground_truth": "Điểm chuẩn ngành Công nghệ thông tin (mã ngành TLA106) tại Trường Đại học Thủy lợi năm 2024 theo phương thức xét điểm thi tốt nghiệp THPT là 25.25 điểm, với tiêu chí phụ là điểm môn Toán từ 8. 6 trở lên.",
+      "category": "diem_chuan"
+    },
+    {
+      "id": 2,
+      "question": "Trường Đại học Thủy lợi có những phương thức xét tuyển nào?",
+      "ground_truth": "Trường Đại học Thủy lợi có 4 phương thức xét tuyển: Xét tuyển thẳng, Xét tuyển kết hợp kết quả học tập THPT và điều kiện ưu tiên (xét học bạ), Xét tuyển kết quả kỳ thi tốt nghiệp THPT, và Xét tuyển kết quả kỳ thi Đánh giá tư duy.",
+      "category": "phuong_thuc_xet_tuyen"
+    },
+    {
+      "id": 3,
+      "question": "Học phí ngành Kế toán tại Đại học Thủy lợi là bao nhiêu?",
+      "ground_truth": "Học phí ngành Kế toán tại Trường Đại học Thủy lợi năm học 2024-2025 là 440. 000 đồng/tín chỉ.",
+      "category": "hoc_phi"
+    },
+    {
+      "id": 4,
+      "question": "IELTS 6.5 được quy đổi thành bao nhiêu điểm khi xét tuyển?",
+      "ground_truth": "Chứng chỉ IELTS từ 6. 0 đến 6.5 được quy đổi thành 9.0 điểm môn Tiếng Anh trong kỳ thi tốt nghiệp THPT khi xét tuyển vào Trường Đại học Thủy lợi.",
+      "category": "phuong_thuc_xet_tuyen"
+    },
+    {
+      "id": 5,
+      "question": "Trường Đại học Thủy lợi thành lập năm nào?",
+      "ground_truth": "Trường Đại học Thủy lợi được thành lập vào ngày 22 tháng 10 năm 1959, đến nay đã có hơn 65 năm xây dựng và phát triển.",
+      "category": "tong_quan"
+    },
+    {
+      "id": 6,
+      "question": "Ngành Trí tuệ nhân tạo có mã ngành là gì?",
+      "ground_truth": "Ngành Trí tuệ nhân tạo và khoa học dữ liệu tại Trường Đại học Thủy lợi có mã ngành là TLA126.",
+      "category": "nganh_hoc"
+    },
+    {
+      "id": 7,
+      "question": "Điểm chuẩn ngành Luật kinh tế năm 2025 là bao nhiêu?",
+      "ground_truth": "Ngành Luật kinh tế (mã ngành TLA302) có điểm chuẩn năm 2025 theo phương thức xét điểm thi tốt nghiệp THPT là 25.50 điểm, với tiêu chí phụ là điểm môn Văn từ 8.7 trở lên.  Đây là ngành có điểm chuẩn cao nhất tại Trường Đại học Thủy lợi năm 2025.",
+      "category": "diem_chuan"
+    },
+    {
+      "id": 8,
+      "question": "Học sinh giỏi cấp tỉnh được cộng bao nhiêu điểm khi xét học bạ?",
+      "ground_truth": "Khi xét tuyển học bạ tại Trường Đại học Thủy lợi, thí sinh đạt giải Nhất cấp tỉnh được cộng 1. 00 điểm, giải Nhì được cộng 0.75 điểm, giải Ba được cộng 0.50 điểm, giải Khuyến khích được cộng 0. 25 điểm.",
+      "category": "phuong_thuc_xet_tuyen"
+    },
+    {
+      "id": 9,
+      "question": "Địa chỉ của Trường Đại học Thủy lợi ở đâu?",
+      "ground_truth": "Trụ sở chính của Trường Đại học Thủy lợi đặt tại địa chỉ: Số 175 Tây Sơn, Phố Kim Liên, Quận Đống Đa, Thành phố Hà Nội.",
+      "category": "tong_quan"
+    },
+    {
+      "id": 10,
+      "question": "Ngành nào có chỉ tiêu tuyển sinh cao nhất năm 2025?",
+      "ground_truth": "Nhóm ngành Kỹ thuật cơ khí (mã TLA105, bao gồm Kỹ thuật cơ khí và Công nghệ chế tạo máy) có chỉ tiêu tuyển sinh cao nhất năm 2025 với 310 sinh viên.",
+      "category": "nganh_hoc"
+    },
+    {
+      "id": 11,
+      "question": "Làm thế nào để được học bổng tại Đại học Thủy lợi? ",
+      "ground_truth": "Để được xét học bổng khuyến khích học tập tại Trường Đại học Thủy lợi, sinh viên cần đạt điểm trung bình học tập và điểm rèn luyện từ loại Khá trở lên.  Học bổng được xét tự động dựa trên kết quả học tập, sinh viên không cần đăng ký.",
+      "category": "hoc_phi"
+    },
+    {
+      "id": 12,
+      "question": "Tổ hợp xét tuyển ngành Công nghệ thông tin là gì?",
+      "ground_truth": "Ngành Công nghệ thông tin tại Trường Đại học Thủy lợi xét tuyển theo các tổ hợp: A00 (Toán, Lý, Hóa), A01 (Toán, Lý, Anh), D01 (Toán, Văn, Anh), D07 (Toán, Hóa, Anh).",
+      "category": "nganh_hoc"
+    },
+    {
+      "id": 13,
+      "question": "Học phí chương trình chất lượng cao giảng dạy bằng tiếng Anh là bao nhiêu?",
+      "ground_truth": "Các học phần trong chương trình chất lượng cao được giảng dạy bằng tiếng Anh tại Trường Đại học Thủy lợi có mức học phí là 1.300. 000 đồng/tín chỉ.",
+      "category": "hoc_phi"
+    },
+    {
+      "id": 14,
+      "question": "HSK bậc 4 được quy đổi thành bao nhiêu điểm?",
+      "ground_truth": "Chứng chỉ HSK Bậc 4 được quy đổi thành 9. 0 điểm môn Ngoại ngữ trong kỳ thi tốt nghiệp THPT khi xét tuyển vào Trường Đại học Thủy lợi.",
+      "category": "phuong_thuc_xet_tuyen"
+    },
+    {
+      "id": 15,
+      "question": "Ngành nào có điểm chuẩn thấp nhất năm 2025? ",
+      "ground_truth": "Chương trình tiên tiến ngành Kỹ thuật xây dựng (mã ngành TLA201) có điểm chuẩn năm 2025 theo phương thức xét điểm thi tốt nghiệp THPT là 17.00 điểm.  Đây là chương trình có điểm chuẩn thấp nhất tại Trường Đại học Thủy lợi năm 2025.",
+      "category": "diem_chuan"
+    }
+  ]
+}

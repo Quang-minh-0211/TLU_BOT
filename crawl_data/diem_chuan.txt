@@ -1,0 +1,398 @@
+ĐIỂM CHUẨN NĂM 2022
+Phương thức: Xét tuyển bằng điểm thi tốt nghiệp THPT
+|   TT | Mã tuyển sinh   | Tên ngành/Nhóm ngành                                          | Điểm chuẩn         |tiêu chí phụ|
+|------|-----------------|---------------------------------------------------------------|--------------------|------------|
+|    1 | TLA101          | Kỹ thuật xây dựng công trình thủy                             |        17.05       | Toán >= 6.2 |                                                                                   
+|    2 | TLA104          | Kỹ thuật xây dựng dân dụng và công nghiệp (Kỹ thuật xây dựng) | 20.75              | Toán >= 7.0 |                                                                                    
+|    3 | TLA111          | Công nghệ kỹ thuật xây dựng                                   | 21.75              | Toán >= 7.0 |                                                                                    
+|    4 | TLA113          | Kỹ thuật xây dựng công trình giao thông                       | 17.35              | Toán >= 6.2 |                                                                                    
+|    5 | TLA114          | Quản lý xây dựng                                              | 22.05              | Toán >= 7.8 |                                                                                     
+|    6 | TLA102          | Kỹ thuật tài nguyên nước                                      | 17.35              | Toán >= 6.0 |                                                                                    
+|    7 | TLA107          | Kỹ thuật cấp thoát nước                                       | 17.00              | Toán >= 5.0 |                                                                                    
+|    8 | TLA110          | Xây dựng và quản lý hạ tầng đô thị (Kỹ thuật cơ sở hạ tầng)   | 18.00              | Toán >= 5.2 |                                                                                    
+|    9 | TLA103          | Tài nguyên nước và môi trường (Thủy văn học)                  | 17.40              | Toán >= 5.4 |                                                                                    
+|   10 | TLA119          | Công nghệ sinh học                                            | 18.20              | Toán >= 6.2 |                                                                                    
+|   11 | TLA109          | Kỹ thuật môi trường                                           | 18.40              | Toán >= 5.8 |                                                                                    
+|   12 | TLA118          | Kỹ thuật hóa học                                              | 17.65              | Toán >= 7.4 |                                                                                    
+|   13 | TLA106          | Công nghệ thông tin                                           | 26.60              | Toán >= 8.6 |                                                                                   
+|   14 | TLA116          | Hệ thống thông tin                                            | 25.55              | Toán >= 7.8 |                                                                                    
+
+|   TT | Mã tuyển sinh   | Tên ngành/Nhóm ngành                                                               |Điểm chuẩn|tiêu chí phụ|
+|------|-----------------|------------------------------------------------------------------------------------|----------|------------|
+|   15 | TLA117          | Kỹ thuật phần mềm                                                                  |25.80  |Toán >= 8.8|
+|   16 | TLA126          | Trí tuệ nhân tạo và khoa học dữ liệu                                               | 25.20 |Toán >= 8.6 |
+|   17 | TLA127          | An ninh mạng                                                                       | 25.25 |Toán >= 8.0 |
+|   18 | TLA105          | Nhóm ngành Kỹ thuật cơ khí (gồm các ngành: Kỹ thuật cơ khí, Công nghệ chế tạo máy) | 24.00 |Toán >= 8.0 |                                                                                    
+|   19 | TLA123          | Kỹ thuật Ô tô                                                                      | 24.55 |Toán >= 8.0 |                                                                                    
+|   20 |  TLA120         | Kỹ thuật cơ điện tử                                                                | 24.60 |Toán >= 8.6 |                                                                                    
+|   21 | TLA112          | Kỹ thuật điện                                                                      | 24.40 |Toán >= 8.4 |                                                                                    
+|   22 | TLA121          | Kỹ thuật điều khiển và tự động hóa                                                 | 25.00 |Toán >= 8.0 |                                                                                    
+|   23 | TLA124          | Kỹ thuật điện tử - viễn thông                                                      | 24.85 |Toán >= 8.6 |                                                                                    
+|   24 | TLA128          | Kỹ thuật Robot và Điều khiển thông minh                                            | 22.65 |Toán >= 7.4 |                                                                                    
+|   25 | TLA401          | Kinh tế                                                                            | 25.70 |Toán >= 8.2 |
+|   26 | TLA402          | Quản trị kinh doanh                                                                | 25.00 |Toán >= 8.0 |
+|   27 | TLA403          | Kế toán                                                                            | 24.95 |Toán >= 8.2 |
+|   28 | TLA404          | Kinh tế xây dựng                                                                   | 23.05 |Toán >= 7.6 |                                                                                    
+|   29 | TLA407          | Logistics và quản lý chuỗi cung ứng                                                | 25.60 |Toán >= 8.4 |
+|   30 | TLA406          | Quản trị dịch vụ du lịch và lữ hành                                                | 25.15 |Toán >= 8.0 |
+|   31 | TLA405          | Thương mại điện tử                                                                 | 25.40 |Toán >= 7.8 |
+|   32 | TLA408          | Tài chính - Ngân hàng                                                              | 24.80 |Toán >= 7.8 |
+|   33 | TLA409          | Kiểm toán                                                                          | 24.90 |Toán >= 8.4 |
+|   34 | TLA410          | Kinh tế số                                                                         | 25.15 |Toán >= 8.4 |
+
+| TT   | Mã tuyển sinh   | Tên ngành/Nhóm ngành                                      | Điểm chuẩn         |tiêu chí phụ|
+|------|-----------------|-----------------------------------------------------------|--------------------|------------|
+| 35   | TLA301          | Luật                                                      | 26.25 |Toán >= 7.4 hoặc Văn >=7.75| 
+| 36   | TLA203          | Ngôn ngữ Anh                                              | 25.70 |Tiếng Anh >= 9.0| 
+| 37   | TLA201          | Chương trình tiên tiến ngành Kỹ thuật xây dựng (*)        | 20.85 |Toán >= 5.8| 
+
+
+Phương thức: Xét tuyển kết quả học tập THPT
+|   TT | Mã tuyển sinh   | Tên ngành/Nhóm ngành                                          | Điểm chuẩn         |
+|------|-----------------|---------------------------------------------------------------|--------------------|
+|    1 | TLA101          | Kỹ thuật xây dựng công trình thủy                             |        19.06       |                                                                                  
+|    2 | TLA104          | Kỹ thuật xây dựng dân dụng và công nghiệp (Kỹ thuật xây dựng) | 19.61              |                                                                                  
+|    3 | TLA111          | Công nghệ kỹ thuật xây dựng                                   | 19.10              |                                                                                  
+|    4 | TLA113          | Kỹ thuật xây dựng công trình giao thông                       | 19.10              |                                                                                    
+|    5 | TLA114          | Quản lý xây dựng                                              | 22.00              |                                                                                     
+|    6 | TLA102          | Kỹ thuật tài nguyên nước                                      | 19.17              |                                                                                   
+|    7 | TLA107          | Kỹ thuật cấp thoát nước                                       | 19.06              |                                                                                    
+|    8 | TLA110          | Xây dựng và quản lý hạ tầng đô thị (Kỹ thuật cơ sở hạ tầng)   | 19.15              |                                                                                   
+|    9 | TLA103          | Tài nguyên nước và môi trường (Thủy văn học)                  | 19.09              |                                                                                    
+|   10 | TLA119          | Công nghệ sinh học                                            | 19.18              |                                                                                    
+|   11 | TLA109          | Kỹ thuật môi trường                                           | 18.32              |                                                                                    
+|   12 | TLA118          | Kỹ thuật hóa học                                              | 19.20              |                                                                                   
+|   13 | TLA106          | Công nghệ thông tin                                           | 27.60              |                                                                                   
+|   14 | TLA116          | Hệ thống thông tin                                            | 24.50              |                                                                                   
+
+|   TT | Mã tuyển sinh   | Tên ngành/Nhóm ngành                                                               | Điểm chuẩn         |
+|------|-----------------|------------------------------------------------------------------------------------|--------------------|
+|   15 | TLA117          | Kỹ thuật phần mềm                                                                  | 24.53 |
+|   16 | TLA126          | Trí tuệ nhân tạo và khoa học dữ liệu                                               | 24.01 |
+|   17 | TLA127          | An ninh mạng                                                                       | 25.00 |
+|   18 | TLA105          | Nhóm ngành Kỹ thuật cơ khí (gồm các ngành: Kỹ thuật cơ khí, Công nghệ chế tạo máy) | 22.01 |                                                                                  
+|   19 | TLA123          | Kỹ thuật Ô tô                                                                      | 25.50 |                                                                                   
+|   20 | TLA120          | Kỹ thuật cơ điện tử                                                                | 23.50 |                                                                                    
+|   21 | TLA112          | Kỹ thuật điện                                                                      | 22.02 |                                                                                  
+|   22 | TLA121          | Kỹ thuật điều khiển và tự động hóa                                                 | 25.50 |                                                                                    
+|   23 | TLA124          | Kỹ thuật điện tử - viễn thông                                                      | 23.50 |                                                                                  
+|   24 | TLA128          | Kỹ thuật Robot và Điều khiển thông minh                                            | 22.39 |                                                                                   
+|   25 | TLA401          | Kinh tế                                                                            | 26.00 |
+|   26 | TLA402          | Quản trị kinh doanh                                                                | 26.50 |
+|   27 | TLA403          | Kế toán                                                                            | 26.50 |
+|   28 | TLA404          | Kinh tế xây dựng                                                                   | 23.00 |                                                                                 
+|   29 | TLA407          | Logistics và quản lý chuỗi cung ứng                                                | 26.50 |
+|   30 | TLA406          | Quản trị dịch vụ du lịch và lữ hành                                                | 25.00 |
+|   31 | TLA405          | Thương mại điện tử                                                                 | 26.50 |
+|   32 | TLA408          | Tài chính - Ngân hàng                                                              | 26.00 |
+|   33 | TLA409          | Kiểm toán                                                                          | 24.02 |
+|   34 | TLA410          | Kinh tế số                                                                         | 24.04 |
+
+| TT   | Mã tuyển sinh   | Tên ngành/Nhóm ngành                                      | Điểm chuẩn         |
+|------|-----------------|-----------------------------------------------------------|--------------------|
+| 35   | TLA301          | Luật                                                      | 25.00              |
+| 36   | TLA203          | Ngôn ngữ Anh                                              | 24.23              |
+| 37   | TLA201          | Chương trình tiên tiến ngành Kỹ thuật xây dựng (*)        | 19.03              | 
+
+
+ĐIỂM CHUẨN NĂM 2023
+Phương thức: Xét tuyển bằng điểm thi tốt nghiệp THPT
+|   TT | Mã tuyển sinh   | Tên ngành/Nhóm ngành                                          | Điểm chuẩn         |tiêu chí phụ|
+|------|-----------------|---------------------------------------------------------------|--------------------|------------|
+|    1 | TLA101          | Kỹ thuật xây dựng công trình thủy                             |        18.15       | Toán >= 6.4 |                                                                                   
+|    2 | TLA104          | Kỹ thuật xây dựng dân dụng và công nghiệp (Kỹ thuật xây dựng) | 21.00              |  	    |                                                                                    
+|    3 | TLA111          | Công nghệ kỹ thuật xây dựng                                   | 22.45              | Toán >= 7.2 |                                                                                    
+|    4 | TLA113          | Kỹ thuật xây dựng công trình giao thông                       | 19.20              | Toán >= 6.4 |                                                                                    
+|    5 | TLA114          | Quản lý xây dựng                                              | 22.10              | Toán >= 6.6 |                                                                                     
+|    6 | TLA102          | Kỹ thuật tài nguyên nước                                      | 18.00              | Toán >= 4.6 |                                                                                    
+|    7 | TLA107          | Kỹ thuật cấp thoát nước                                       | 18.15              | Toán >= 5.6 |                                                                                    
+|    8 | TLA110          | Xây dựng và quản lý hạ tầng đô thị (Kỹ thuật cơ sở hạ tầng)   | 20.85              | Toán >= 7.2 |                                                                                    
+|    9 | TLA103          | Tài nguyên nước và môi trường (Thủy văn học)                  | 19.15              | Toán >= 5.4 |                                                                                    
+|   10 | TLA119          | Công nghệ sinh học                                            | 20.95              | Toán >= 7.2 |                                                                                    
+|   11 | TLA109          | Kỹ thuật môi trường                                           | 20.05              | Toán >= 7.6 |                                                                                    
+|   12 | TLA118          | Kỹ thuật hóa học                                              | 20.15              | Toán >= 7.4 |                                                                                    
+|   13 | TLA106          | Công nghệ thông tin                                           | 25.89              | Toán >= 8.6 |                                                                                   
+|   14 | TLA116          | Hệ thống thông tin                                            | 24.31              | Toán >= 8.4 |                                                                                    
+
+|   TT | Mã tuyển sinh   | Tên ngành/Nhóm ngành                                                               |Điểm chuẩn|tiêu chí phụ|
+|------|-----------------|------------------------------------------------------------------------------------|----------|------------|
+|   15 | TLA117          | Kỹ thuật phần mềm                                                                  | 24.68 |Toán >= 8.0 |
+|   16 | TLA126          | Trí tuệ nhân tạo và khoa học dữ liệu                                               | 23.90 |Toán >= 7.8 |
+|   17 | TLA127          | An ninh mạng                                                                       | 24.21 |Toán >= 8.0 |
+|   18 | TLA105          | Nhóm ngành Kỹ thuật cơ khí (gồm các ngành: Kỹ thuật cơ khí, Công nghệ chế tạo máy) | 23.04 |Toán >= 7.8 |                                                                                    
+|   19 | TLA123          | Kỹ thuật Ô tô                                                                      | 24.30 |Toán >= 8.8 |                                                                                    
+|   20 |  TLA120         | Kỹ thuật cơ điện tử                                                                | 24.31 |Toán >= 8.4 |                                                                                    
+|   21 | TLA112          | Kỹ thuật điện                                                                      | 23.35 |Toán >= 7.6 |                                                                                    
+|   22 | TLA121          | Kỹ thuật điều khiển và tự động hóa                                                 | 25.41 |Toán >= 8.0 |                                                                                    
+|   23 | TLA124          | Kỹ thuật điện tử - viễn thông                                                      | 24.39 |Toán >= 8.0 |                                                                                    
+|   24 | TLA128          | Kỹ thuật Robot và Điều khiển thông minh                                            | 23.72 |Toán >= 8.0 |                                                                                    
+|   25 | TLA401          | Kinh tế                                                                            | 24.20 |Toán >= 7.8 |
+|   26 | TLA402          | Quản trị kinh doanh                                                                | 24.55 |Toán >= 7.8 |
+|   27 | TLA403          | Kế toán                                                                            | 24.91 |Toán >= 8.8 |
+|   28 | TLA404          | Kinh tế xây dựng                                                                   | 23.25 |Toán >= 7.6 |                                                                                    
+|   29 | TLA407          | Logistics và quản lý chuỗi cung ứng                                                | 25.01 |Toán >= 8.0 |
+|   30 | TLA406          | Quản trị dịch vụ du lịch và lữ hành                                                | 22.75 |Toán >= 8.0 |
+|   31 | TLA405          | Thương mại điện tử                                                                 | 25.12 |Toán >= 7.6 |
+|   32 | TLA408          | Tài chính - Ngân hàng                                                              | 24.73 |Toán >= 7.8 |
+|   33 | TLA409          | Kiểm toán                                                                          | 23.91 |Toán >= 8.4 |
+|   34 | TLA410          | Kinh tế số                                                                         | 24.49 |Toán >= 8.2 |
+
+| TT   | Mã tuyển sinh   | Tên ngành/Nhóm ngành                                      | Điểm chuẩn         |tiêu chí phụ|
+|------|-----------------|-----------------------------------------------------------|--------------------|------------|
+| 35   | TLA301          | Luật                                                      | 23.72 |Toán >= 8.2     |
+| 36   | TLA302          | Luật kinh tế                                              | 23.47 |Toán >= 4.4     |
+ 
+| 37   | TLA203          | Ngôn ngữ Anh                                              | 23.24 |Tiếng Anh >= 7.6| 
+| 38   | TLA201          | Chương trình tiên tiến ngành Kỹ thuật xây dựng (*)        | 21.00 |		      |
+| 39   | TLA204          | Ngôn ngữ Trung Quốc                                       | 24.45 | 		      |
+ 
+
+
+Phương thức: Xét tuyển kết quả học tập THPT
+|   TT | Mã tuyển sinh   | Tên ngành/Nhóm ngành                                          | Điểm chuẩn         |
+|------|-----------------|---------------------------------------------------------------|--------------------|
+|    1 | TLA101          | Kỹ thuật xây dựng công trình thủy                             |        21.00       |                                                                                  
+|    2 | TLA104          | Kỹ thuật xây dựng dân dụng và công nghiệp (Kỹ thuật xây dựng) | 22.00              |                                                                                  
+|    3 | TLA111          | Công nghệ kỹ thuật xây dựng                                   | 24.00              |                                                                                  
+|    4 | TLA113          | Kỹ thuật xây dựng công trình giao thông                       | 21.00              |                                                                                    
+|    5 | TLA114          | Quản lý xây dựng                                              | 25.50              |                                                                                     
+|    6 | TLA102          | Kỹ thuật tài nguyên nước                                      | 21.03              |                                                                                   
+|    7 | TLA107          | Kỹ thuật cấp thoát nước                                       | 21.02              |                                                                                    
+|    8 | TLA110          | Xây dựng và quản lý hạ tầng đô thị (Kỹ thuật cơ sở hạ tầng)   | 22.00              |                                                                                   
+|    9 | TLA103          | Tài nguyên nước và môi trường (Thủy văn học)                  | 21.01              |                                                                                    
+|   10 | TLA119          | Công nghệ sinh học                                            | 25.00              |                                                                                    
+|   11 | TLA109          | Kỹ thuật môi trường                                           | 22.00              |                                                                                    
+|   12 | TLA118          | Kỹ thuật hóa học                                              | 23.00              |                                                                                   
+|   13 | TLA106          | Công nghệ thông tin                                           | 29.50              |                                                                                   
+|   14 | TLA116          | Hệ thống thông tin                                            | 28.51              |                                                                                   
+
+|   TT | Mã tuyển sinh   | Tên ngành/Nhóm ngành                                                               | Điểm chuẩn         |
+|------|-----------------|------------------------------------------------------------------------------------|--------------------|
+|   15 | TLA117          | Kỹ thuật phần mềm                                                                  | 28.50 |
+|   16 | TLA126          | Trí tuệ nhân tạo và khoa học dữ liệu                                               | 28.50 |
+|   17 | TLA127          | An ninh mạng                                                                       | 28.50 |
+|   18 | TLA105          | Nhóm ngành Kỹ thuật cơ khí (gồm các ngành: Kỹ thuật cơ khí, Công nghệ chế tạo máy) | 24.75 |                                                                                  
+|   19 | TLA123          | Kỹ thuật Ô tô                                                                      | 27.67 |                                                                                   
+|   20 | TLA120          | Kỹ thuật cơ điện tử                                                                | 27.23 |                                                                                    
+|   21 | TLA112          | Kỹ thuật điện                                                                      | 26.00 |                                                                                  
+|   22 | TLA121          | Kỹ thuật điều khiển và tự động hóa                                                 | 28.00 |                                                                                    
+|   23 | TLA124          | Kỹ thuật điện tử - viễn thông                                                      | 27.50 |                                                                                  
+|   24 | TLA128          | Kỹ thuật Robot và Điều khiển thông minh                                            | 27.00 |                                                                                   
+|   25 | TLA401          | Kinh tế                                                                            | 28.75 |
+|   26 | TLA402          | Quản trị kinh doanh                                                                | 28.75 |
+|   27 | TLA403          | Kế toán                                                                            | 28.75 |
+|   28 | TLA404          | Kinh tế xây dựng                                                                   | 26.05 |                                                                                 
+|   29 | TLA407          | Logistics và quản lý chuỗi cung ứng                                                | 29.50 |
+|   30 | TLA406          | Quản trị dịch vụ du lịch và lữ hành                                                | 28.00 |
+|   31 | TLA405          | Thương mại điện tử                                                                 | 29.25 |
+|   32 | TLA408          | Tài chính - Ngân hàng                                                              | 28.76 |
+|   33 | TLA409          | Kiểm toán                                                                          | 28.76 |
+|   34 | TLA410          | Kinh tế số                                                                         | 28.00 |
+
+| TT   | Mã tuyển sinh   | Tên ngành/Nhóm ngành                                      | Điểm chuẩn         |
+|------|-----------------|-----------------------------------------------------------|--------------------|
+| 35   | TLA301          | Luật                                                      | 29.03              |
+| 36   | TLA302          | Luật kinh tế                                              | 29.50              |
+| 37   | TLA203          | Ngôn ngữ Anh                                              | 28.50              |
+| 38   | TLA201          | Chương trình tiên tiến ngành Kỹ thuật xây dựng (*)        | 22.00              |
+| 39   | TLA204          | Ngôn ngữ Trung Quốc                                       | 28.51              | 
+
+
+ĐIỂM CHUẨN NĂM 2024
+Phương thức: Xét tuyển bằng điểm thi tốt nghiệp THPT
+|   TT | Mã tuyển sinh   | Tên ngành/Nhóm ngành                                          | Điểm chuẩn         |tiêu chí phụ|
+|------|-----------------|---------------------------------------------------------------|--------------------|------------|
+|    1 | TLA101          | Kỹ thuật xây dựng công trình thủy                             |        20.05       | Toán >= 6.4 |                                                                                   
+|    2 | TLA104          | Kỹ thuật xây dựng dân dụng và công nghiệp (Kỹ thuật xây dựng) | 22.50              | Toán >= 8.0 |                                                                                    
+|    3 | TLA111          | Công nghệ kỹ thuật xây dựng                                   | 23.00              | Toán >= 7.6 |                                                                                    
+|    4 | TLA113          | Kỹ thuật xây dựng công trình giao thông                       | 21.00              | Toán >= 7.8 |                                                                                    
+|    5 | TLA114          | Quản lý xây dựng                                              | 22.75              | Toán >= 7.0 |                                                                                     
+|    6 | TLA102          | Kỹ thuật tài nguyên nước                                      | 20.05              | Toán >= 4.6 |                                                                                    
+|    7 | TLA107          | Kỹ thuật cấp thoát nước                                       | 20.05              | Toán >= 5.6 |                                                                                    
+|    8 | TLA110          | Xây dựng và quản lý hạ tầng đô thị (Kỹ thuật cơ sở hạ tầng)   | 22.35              | Toán >= 7.2 |                                                                                    
+|    9 | TLA103          | Tài nguyên nước và môi trường (Thủy văn học)                  | 21.00              | Toán >= 7.0 |                                                                                    
+|   10 | TLA119          | Công nghệ sinh học                                            | 23.14              | Toán >= 8.4 |                                                                                    
+|   11 | TLA109          | Kỹ thuật môi trường                                           | 21.70              | Toán >= 8.4 |                                                                                    
+|   12 | TLA118          | Kỹ thuật hóa học                                              | 23.15              | Toán >= 7.4 |                                                                                    
+|   13 | TLA106          | Công nghệ thông tin                                           | 25.25              | Toán >= 8.6 |                                                                                   
+|   14 | TLA116          | Hệ thống thông tin                                            | 24.54              | Toán >= 8.6 |                                                                                    
+
+|   TT | Mã tuyển sinh   | Tên ngành/Nhóm ngành                                                               |Điểm chuẩn|tiêu chí phụ|
+|------|-----------------|------------------------------------------------------------------------------------|----------|------------|
+|   15 | TLA117          | Kỹ thuật phần mềm                                                                  | 24.87 |Toán >= 8.0 |
+|   16 | TLA126          | Trí tuệ nhân tạo và khoa học dữ liệu                                               | 24.20 |Toán >= 8.0 |
+|   17 | TLA127          | An ninh mạng                                                                       | 24.17 |Toán >= 8.0 |
+|   18 | TLA105          | Nhóm ngành Kỹ thuật cơ khí (gồm các ngành: Kỹ thuật cơ khí, Công nghệ chế tạo máy) | 24.06 |Toán >= 8.2 |                                                                                    
+|   19 | TLA123          | Kỹ thuật Ô tô                                                                      | 24.40 |Toán >= 8.0 |                                                                                    
+|   20 |  TLA120         | Kỹ thuật cơ điện tử                                                                | 24.83 |Toán >= 8.8 |                                                                                    
+|   21 | TLA112          | Kỹ thuật điện                                                                      | 24.17 |Toán >= 8.8 |                                                                                    
+|   22 | TLA121          | Kỹ thuật điều khiển và tự động hóa                                                 | 25.10 |Toán >= 8.0 |                                                                                    
+|   23 | TLA124          | Kỹ thuật điện tử - viễn thông                                                      | 24.59 |Toán >= 8.2 |                                                                                    
+|   24 | TLA128          | Kỹ thuật Robot và Điều khiển thông minh                                            | 24.26 |Toán >= 8.6 |                                                                                    
+|   25 | TLA401          | Kinh tế                                                                            | 24.73 |Toán >= 8.0 |
+|   26 | TLA402          | Quản trị kinh doanh                                                                | 24.68 |Toán >= 8.8 |
+|   27 | TLA403          | Kế toán                                                                            | 25.02 |Toán >= 8.8 |
+|   28 | TLA404          | Kinh tế xây dựng                                                                   | 23.75 |Toán >= 7.2 |                                                                                    
+|   29 | TLA407          | Logistics và quản lý chuỗi cung ứng                                                | 25.31 |Toán >= 8.4 |
+|   30 | TLA406          | Quản trị dịch vụ du lịch và lữ hành                                                | 24.21 |Toán >= 8.2 |
+|   31 | TLA405          | Thương mại điện tử                                                                 | 25.36 |Toán >= 7.8 |
+|   32 | TLA408          | Tài chính - Ngân hàng                                                              | 24.88 |Toán >= 8.2 |
+|   33 | TLA409          | Kiểm toán                                                                          | 24.68 |Toán >= 8.8 |
+|   34 | TLA410          | Kinh tế số                                                                         | 25.00 |Toán >= 8.4 |
+
+| TT   | Mã tuyển sinh   | Tên ngành/Nhóm ngành                                      | Điểm chuẩn         |tiêu chí phụ|
+|------|-----------------|-----------------------------------------------------------|--------------------|------------|
+| 35   | TLA301          | Luật                                                      | 26.03 |Văn >= 7.5      |
+| 36   | TLA302          | Luật kinh tế                                              | 26.62 |Văn >= 8.7      |
+| 37   | TLA203          | Ngôn ngữ Anh                                              | 24.82 |Tiếng Anh >= 8.6| 
+| 38   | TLA201          | Chương trình tiên tiến ngành Kỹ thuật xây dựng (*)        | 20.50 |		          |
+| 39   | TLA204          | Ngôn ngữ Trung Quốc                                       | 25.42 |Tiếng Anh >= 8.6|
+
+Phương thức: Xét tuyển kết quả học tập THPT
+|   TT | Mã tuyển sinh   | Tên ngành/Nhóm ngành                                          | Điểm chuẩn         |
+|------|-----------------|---------------------------------------------------------------|--------------------|
+|    1 | TLA101          | Kỹ thuật xây dựng công trình thủy                             |        20.52       |                                                                                  
+|    2 | TLA104          | Kỹ thuật xây dựng dân dụng và công nghiệp (Kỹ thuật xây dựng) | 21.50              |                                                                                  
+|    3 | TLA111          | Công nghệ kỹ thuật xây dựng                                   | 24.00              |                                                                                  
+|    4 | TLA113          | Kỹ thuật xây dựng công trình giao thông                       | 22.00              |                                                                                    
+|    5 | TLA114          | Quản lý xây dựng                                              | 23.00              |                                                                                     
+|    6 | TLA102          | Kỹ thuật tài nguyên nước                                      | 20.50              |                                                                                   
+|    7 | TLA107          | Kỹ thuật cấp thoát nước                                       | 20.52              |                                                                                    
+|    8 | TLA110          | Xây dựng và quản lý hạ tầng đô thị (Kỹ thuật cơ sở hạ tầng)   | 22.50              |                                                                                   
+|    9 | TLA103          | Tài nguyên nước và môi trường (Thủy văn học)                  | 21.00              |                                                                                    
+|   10 | TLA119          | Công nghệ sinh học                                            | 23.55              |                                                                                    
+|   11 | TLA109          | Kỹ thuật môi trường                                           | 20.51              |                                                                                    
+|   12 | TLA118          | Kỹ thuật hóa học                                              | 22.51              |                                                                                   
+|   13 | TLA106          | Công nghệ thông tin                                           | 29.00              |                                                                                   
+|   14 | TLA116          | Hệ thống thông tin                                            | 27.67              |                                                                                   
+
+|   TT | Mã tuyển sinh   | Tên ngành/Nhóm ngành                                                               | Điểm chuẩn         |
+|------|-----------------|------------------------------------------------------------------------------------|--------------------|
+|   15 | TLA117          | Kỹ thuật phần mềm                                                                  | 27.09 |
+|   16 | TLA126          | Trí tuệ nhân tạo và khoa học dữ liệu                                               | 27.16 |
+|   17 | TLA127          | An ninh mạng                                                                       | 28.23 |
+|   18 | TLA105          | Nhóm ngành Kỹ thuật cơ khí (gồm các ngành: Kỹ thuật cơ khí, Công nghệ chế tạo máy) | 25.00 |                                                                                  
+|   19 | TLA123          | Kỹ thuật Ô tô                                                                      | 27.01 |                                                                                   
+|   20 | TLA120          | Kỹ thuật cơ điện tử                                                                | 26.50 |                                                                                    
+|   21 | TLA112          | Kỹ thuật điện                                                                      | 25.50 |                                                                                  
+|   22 | TLA121          | Kỹ thuật điều khiển và tự động hóa                                                 | 27.75 |                                                                                    
+|   23 | TLA124          | Kỹ thuật điện tử - viễn thông                                                      | 27.00 |                                                                                  
+|   24 | TLA128          | Kỹ thuật Robot và Điều khiển thông minh                                            | 24.51 |                                                                                   
+|   25 | TLA401          | Kinh tế                                                                            | 27.26 |
+|   26 | TLA402          | Quản trị kinh doanh                                                                | 27.50 |
+|   27 | TLA403          | Kế toán                                                                            | 25.50 |
+|   28 | TLA404          | Kinh tế xây dựng                                                                   | 25.00 |                                                                                 
+|   29 | TLA407          | Logistics và quản lý chuỗi cung ứng                                                | 28.80 |
+|   30 | TLA406          | Quản trị dịch vụ du lịch và lữ hành                                                | 26.25 |
+|   31 | TLA405          | Thương mại điện tử                                                                 | 28.00 |
+|   32 | TLA408          | Tài chính - Ngân hàng                                                              | 27.75 |
+|   33 | TLA409          | Kiểm toán                                                                          | 27.00 |
+|   34 | TLA410          | Kinh tế số                                                                         | 26.75 |
+
+| TT   | Mã tuyển sinh   | Tên ngành/Nhóm ngành                                      | Điểm chuẩn         |
+|------|-----------------|-----------------------------------------------------------|--------------------|
+| 35   | TLA301          | Luật                                                      | 27.50              |
+| 36   | TLA302          | Luật kinh tế                                              | 27.50              |
+| 37   | TLA203          | Ngôn ngữ Anh                                              | 27.25              |
+| 38   | TLA201          | Chương trình tiên tiến ngành Kỹ thuật xây dựng (*)        | 22.52              |
+| 39   | TLA204          | Ngôn ngữ Trung Quốc                                       | 27.75              | 
+
+
+ĐIỂM CHUẨN NĂM 2025
+Phương thức: Xét tuyển bằng điểm thi tốt nghiệp THPT
+|   TT | Mã tuyển sinh   | Tên ngành/Nhóm ngành                                          | Điểm chuẩn         |tiêu chí phụ|
+|------|-----------------|---------------------------------------------------------------|--------------------|------------|
+|    1 | TLA101          | Kỹ thuật xây dựng công trình thủy                             |        18.28       | Toán >= 6.4 |                                                                                   
+|    2 | TLA104          | Kỹ thuật xây dựng dân dụng và công nghiệp (Kỹ thuật xây dựng) | 18.76              | Toán >= 8.0 |                                                                                    
+|    3 | TLA111          | Công nghệ kỹ thuật xây dựng                                   | 19.48              | Toán >= 7.6 |                                                                                    
+|    4 | TLA113          | Kỹ thuật xây dựng công trình giao thông                       | 18.50              | Toán >= 7.8 |                                                                                    
+|    5 | TLA114          | Quản lý xây dựng                                              | 19.96              | Toán >= 7.0 |                                                                                     
+|    6 | TLA102          | Kỹ thuật tài nguyên nước                                      | 18.49              | Toán >= 4.6 |                                                                                    
+|    7 | TLA107          | Kỹ thuật cấp thoát nước                                       | 18.00              | Toán >= 5.6 |                                                                                    
+|    8 | TLA110          | Xây dựng và quản lý hạ tầng đô thị (Kỹ thuật cơ sở hạ tầng)   | 19.00              | Toán >= 7.2 |                                                                                    
+|    9 | TLA103          | Tài nguyên nước và môi trường (Thủy văn học)                  | 18.00              | Toán >= 7.0 |                                                                                    
+|   10 | TLA119          | Công nghệ sinh học                                            | 18.76              | Toán >= 8.4 |                                                                                    
+|   11 | TLA109          | Kỹ thuật môi trường                                           | 17.75              | Toán >= 8.4 |                                                                                    
+|   12 | TLA118          | Kỹ thuật hóa học                                              | 20.05              | Toán >= 7.4 |                                                                                    
+|   13 | TLA106          | Công nghệ thông tin                                           | 23.23              | Toán >= 8.6 |                                                                                   
+|   14 | TLA116          | Hệ thống thông tin                                            | 21.75              | Toán >= 8.6 |                                                                                    
+
+|   TT | Mã tuyển sinh   | Tên ngành/Nhóm ngành                                                               |Điểm chuẩn|tiêu chí phụ|
+|------|-----------------|------------------------------------------------------------------------------------|----------|------------|
+|   15 | TLA117          | Kỹ thuật phần mềm                                                                  | 21.55 |Toán >= 8.0 |
+|   16 | TLA126          | Trí tuệ nhân tạo và khoa học dữ liệu                                               | 22.12 |Toán >= 8.0 |
+|   17 | TLA127          | An ninh mạng                                                                       | 22.04 |Toán >= 8.0 |
+|   18 | TLA105          | Nhóm ngành Kỹ thuật cơ khí (gồm các ngành: Kỹ thuật cơ khí, Công nghệ chế tạo máy) | 22.60 |Toán >= 8.2 |                                                                                    
+|   19 | TLA123          | Kỹ thuật Ô tô                                                                      | 22.50 |Toán >= 8.0 |                                                                                    
+|   20 |  TLA120         | Kỹ thuật cơ điện tử                                                                | 23.33 |Toán >= 8.8 |                                                                                    
+|   21 | TLA112          | Kỹ thuật điện                                                                      | 22.00 |Toán >= 8.8 |                                                                                    
+|   22 | TLA121          | Kỹ thuật điều khiển và tự động hóa                                                 | 24.10 |Toán >= 8.0 |                                                                                    
+|   23 | TLA124          | Kỹ thuật điện tử - viễn thông                                                      | 22.50 |Toán >= 8.2 |                                                                                    
+|   24 | TLA128          | Kỹ thuật Robot và Điều khiển thông minh                                            | 21.15 |Toán >= 8.6 |                                                                                    
+|   25 | TLA401          | Kinh tế                                                                            | 21.91 |Toán >= 8.0 |
+|   26 | TLA402          | Quản trị kinh doanh                                                                | 22.10 |Toán >= 8.8 |
+|   27 | TLA403          | Kế toán                                                                            | 22.25 |Toán >= 8.8 |
+|   28 | TLA404          | Kinh tế xây dựng                                                                   | 20.73 |Toán >= 7.2 |                                                                                    
+|   29 | TLA407          | Logistics và quản lý chuỗi cung ứng                                                | 23.00 |Toán >= 8.4 |
+|   30 | TLA406          | Quản trị dịch vụ du lịch và lữ hành                                                | 21.48 |Toán >= 8.2 |
+|   31 | TLA405          | Thương mại điện tử                                                                 | 22.98 |Toán >= 7.8 |
+|   32 | TLA408          | Tài chính - Ngân hàng                                                              | 22.26 |Toán >= 8.2 |
+|   33 | TLA409          | Kiểm toán                                                                          | 21.44 |Toán >= 8.8 |
+|   34 | TLA410          | Kinh tế số                                                                         | 22.10 |Toán >= 8.4 |
+
+| TT   | Mã tuyển sinh   | Tên ngành/Nhóm ngành                                      | Điểm chuẩn         |tiêu chí phụ|
+|------|-----------------|-----------------------------------------------------------|--------------------|------------|
+| 35   | TLA301          | Luật                                                      | 25.17 |Văn >= 7.5      |
+| 36   | TLA302          | Luật kinh tế                                              | 25.50 |Văn >= 8.7      |
+| 37   | TLA203          | Ngôn ngữ Anh                                              | 22.59 |Tiếng Anh >= 8.6| 
+| 38   | TLA201          | Chương trình tiên tiến ngành Kỹ thuật xây dựng (*)        | 17.00 |		          |
+| 39   | TLA204          | Ngôn ngữ Trung Quốc                                       | 25.45 |Tiếng Anh >= 8.6|
+
+Phương thức: Xét tuyển kết quả học tập THPT
+|   TT | Mã tuyển sinh   | Tên ngành/Nhóm ngành                                          | Điểm chuẩn         |
+|------|-----------------|---------------------------------------------------------------|--------------------|
+|    1 | TLA101          | Kỹ thuật xây dựng công trình thủy                             |        23.46       |                                                                                  
+|    2 | TLA104          | Kỹ thuật xây dựng dân dụng và công nghiệp (Kỹ thuật xây dựng) | 23.72              |                                                                                  
+|    3 | TLA111          | Công nghệ kỹ thuật xây dựng                                   | 24.34              |                                                                                  
+|    4 | TLA113          | Kỹ thuật xây dựng công trình giao thông                       | 23.50              |                                                                                    
+|    5 | TLA114          | Quản lý xây dựng                                              | 19.96              |                                                                                     
+|    6 | TLA102          | Kỹ thuật tài nguyên nước                                      | 18.49              |                                                                                   
+|    7 | TLA107          | Kỹ thuật cấp thoát nước                                       | 18.00              |                                                                                    
+|    8 | TLA110          | Xây dựng và quản lý hạ tầng đô thị (Kỹ thuật cơ sở hạ tầng)   | 19.00              |                                                                                   
+|    9 | TLA103          | Tài nguyên nước và môi trường (Thủy văn học)                  | 18.00              |                                                                                    
+|   10 | TLA119          | Công nghệ sinh học                                            | 18.76              |                                                                                    
+|   11 | TLA109          | Kỹ thuật môi trường                                           | 17.75              |                                                                                    
+|   12 | TLA118          | Kỹ thuật hóa học                                              | 20.50              |                                                                                   
+|   13 | TLA106          | Công nghệ thông tin                                           | 23.23              |                                                                                   
+|   14 | TLA116          | Hệ thống thông tin                                            | 21.75              |                                                                                   
+
+|   TT | Mã tuyển sinh   | Tên ngành/Nhóm ngành                                                               | Điểm chuẩn         |
+|------|-----------------|------------------------------------------------------------------------------------|--------------------|
+|   15 | TLA117          | Kỹ thuật phần mềm                                                                  | 21.55 |
+|   16 | TLA126          | Trí tuệ nhân tạo và khoa học dữ liệu                                               | 22.12 |
+|   17 | TLA127          | An ninh mạng                                                                       | 22.04 |
+|   18 | TLA105          | Nhóm ngành Kỹ thuật cơ khí (gồm các ngành: Kỹ thuật cơ khí, Công nghệ chế tạo máy) | 22.60 |                                                                                  
+|   19 | TLA123          | Kỹ thuật Ô tô                                                                      | 22.50 |                                                                                   
+|   20 | TLA120          | Kỹ thuật cơ điện tử                                                                | 23.33 |                                                                                    
+|   21 | TLA112          | Kỹ thuật điện                                                                      | 22.00 |                                                                                  
+|   22 | TLA121          | Kỹ thuật điều khiển và tự động hóa                                                 | 24.10 |                                                                                    
+|   23 | TLA124          | Kỹ thuật điện tử - viễn thông                                                      | 22.50 |                                                                                  
+|   24 | TLA128          | Kỹ thuật Robot và Điều khiển thông minh                                            | 21.15 |                                                                                   
+|   25 | TLA401          | Kinh tế                                                                            | 21.91 |
+|   26 | TLA402          | Quản trị kinh doanh                                                                | 22.10 |
+|   27 | TLA403          | Kế toán                                                                            | 22.25 |
+|   28 | TLA404          | Kinh tế xây dựng                                                                   | 20.73 |                                                                                 
+|   29 | TLA407          | Logistics và quản lý chuỗi cung ứng                                                | 23.00 |
+|   30 | TLA406          | Quản trị dịch vụ du lịch và lữ hành                                                | 21.48 |
+|   31 | TLA405          | Thương mại điện tử                                                                 | 22.98 |
+|   32 | TLA408          | Tài chính - Ngân hàng                                                              | 22.26 |
+|   33 | TLA409          | Kiểm toán                                                                          | 21.44 |
+|   34 | TLA410          | Kinh tế số                                                                         | 22.11 |
+
+| TT   | Mã tuyển sinh   | Tên ngành/Nhóm ngành                                      | Điểm chuẩn         |
+|------|-----------------|-----------------------------------------------------------|--------------------|
+| 35   | TLA301          | Luật                                                      | 25.17              |
+| 36   | TLA302          | Luật kinh tế                                              | 25.50              |
+| 37   | TLA203          | Ngôn ngữ Anh                                              | 22.59              |
+| 38   | TLA201          | Chương trình tiên tiến ngành Kỹ thuật xây dựng (*)        | 17.00              |
+| 39   | TLA204          | Ngôn ngữ Trung Quốc                                       | 25.45              | 
