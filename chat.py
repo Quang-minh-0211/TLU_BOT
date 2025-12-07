@@ -43,7 +43,10 @@ def format_docs(docs):
 def create_rag_chain(vectorstore):
     """Tạo RAG chain với LCEL"""
     # Khởi tạo LLM
-    llm = OllamaLLM(model="qwen2.5:7b")
+    llm = OllamaLLM(
+        model="qwen2.5:7b",
+        temperature=0.1,
+        num_predict=2048,)
     
     # Tạo retriever
     retriever = vectorstore.as_retriever(
