@@ -1,0 +1,215 @@
+{
+  "timestamp": "20251213_214901",
+  "total_combinations": 18,
+  "best_config": {
+    "embedding_name": "E5-small",
+    "embedding_model": "intfloat/multilingual-e5-small",
+    "chunk_size": 1000,
+    "chunk_overlap": 200,
+    "retrieval_type": "mmr",
+    "retrieval_k": 5,
+    "hit_rate": 0.9,
+    "mrr": 0.4666666666666667,
+    "total_time": 6.30125880241394
+  },
+  "all_results": [
+    {
+      "embedding_name": "MiniLM",
+      "embedding_model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "retrieval_type": "similarity",
+      "retrieval_k": 3,
+      "hit_rate": 0.5,
+      "mrr": 0.2833333333333333,
+      "total_time": 5.618679523468018
+    },
+    {
+      "embedding_name": "MiniLM",
+      "embedding_model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "retrieval_type": "similarity",
+      "retrieval_k": 5,
+      "hit_rate": 0.5,
+      "mrr": 0.22,
+      "total_time": 5.341357231140137
+    },
+    {
+      "embedding_name": "MiniLM",
+      "embedding_model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "retrieval_type": "mmr",
+      "retrieval_k": 5,
+      "hit_rate": 0.5,
+      "mrr": 0.225,
+      "total_time": 5.306267023086548
+    },
+    {
+      "embedding_name": "MiniLM",
+      "embedding_model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+      "chunk_size": 500,
+      "chunk_overlap": 100,
+      "retrieval_type": "similarity",
+      "retrieval_k": 3,
+      "hit_rate": 0.2,
+      "mrr": 0.2,
+      "total_time": 4.982503890991211
+    },
+    {
+      "embedding_name": "MiniLM",
+      "embedding_model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+      "chunk_size": 500,
+      "chunk_overlap": 100,
+      "retrieval_type": "similarity",
+      "retrieval_k": 5,
+      "hit_rate": 0.5,
+      "mrr": 0.275,
+      "total_time": 4.920907735824585
+    },
+    {
+      "embedding_name": "MiniLM",
+      "embedding_model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+      "chunk_size": 500,
+      "chunk_overlap": 100,
+      "retrieval_type": "mmr",
+      "retrieval_k": 5,
+      "hit_rate": 0.6,
+      "mrr": 0.30333333333333334,
+      "total_time": 5.005598545074463
+    },
+    {
+      "embedding_name": "MiniLM",
+      "embedding_model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "retrieval_type": "similarity",
+      "retrieval_k": 3,
+      "hit_rate": 0.2,
+      "mrr": 0.2,
+      "total_time": 4.577951192855835
+    },
+    {
+      "embedding_name": "MiniLM",
+      "embedding_model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "retrieval_type": "similarity",
+      "retrieval_k": 5,
+      "hit_rate": 0.6,
+      "mrr": 0.3,
+      "total_time": 5.044168949127197
+    },
+    {
+      "embedding_name": "MiniLM",
+      "embedding_model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "retrieval_type": "mmr",
+      "retrieval_k": 5,
+      "hit_rate": 0.7,
+      "mrr": 0.33666666666666667,
+      "total_time": 4.42933201789856
+    },
+    {
+      "embedding_name": "E5-small",
+      "embedding_model": "intfloat/multilingual-e5-small",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "retrieval_type": "similarity",
+      "retrieval_k": 3,
+      "hit_rate": 0.6,
+      "mrr": 0.4,
+      "total_time": 5.675119400024414
+    },
+    {
+      "embedding_name": "E5-small",
+      "embedding_model": "intfloat/multilingual-e5-small",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "retrieval_type": "similarity",
+      "retrieval_k": 5,
+      "hit_rate": 0.6,
+      "mrr": 0.3333333333333333,
+      "total_time": 6.665574550628662
+    },
+    {
+      "embedding_name": "E5-small",
+      "embedding_model": "intfloat/multilingual-e5-small",
+      "chunk_size": 300,
+      "chunk_overlap": 50,
+      "retrieval_type": "mmr",
+      "retrieval_k": 5,
+      "hit_rate": 0.6,
+      "mrr": 0.3333333333333333,
+      "total_time": 5.5891852378845215
+    },
+    {
+      "embedding_name": "E5-small",
+      "embedding_model": "intfloat/multilingual-e5-small",
+      "chunk_size": 500,
+      "chunk_overlap": 100,
+      "retrieval_type": "similarity",
+      "retrieval_k": 3,
+      "hit_rate": 0.3,
+      "mrr": 0.3,
+      "total_time": 6.0972208976745605
+    },
+    {
+      "embedding_name": "E5-small",
+      "embedding_model": "intfloat/multilingual-e5-small",
+      "chunk_size": 500,
+      "chunk_overlap": 100,
+      "retrieval_type": "similarity",
+      "retrieval_k": 5,
+      "hit_rate": 0.8,
+      "mrr": 0.425,
+      "total_time": 6.3970136642456055
+    },
+    {
+      "embedding_name": "E5-small",
+      "embedding_model": "intfloat/multilingual-e5-small",
+      "chunk_size": 500,
+      "chunk_overlap": 100,
+      "retrieval_type": "mmr",
+      "retrieval_k": 5,
+      "hit_rate": 0.8,
+      "mrr": 0.44166666666666665,
+      "total_time": 5.751670837402344
+    },
+    {
+      "embedding_name": "E5-small",
+      "embedding_model": "intfloat/multilingual-e5-small",
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "retrieval_type": "similarity",
+      "retrieval_k": 3,
+      "hit_rate": 0.3,
+      "mrr": 0.3,
+      "total_time": 5.785107374191284
+    },
+    {
+      "embedding_name": "E5-small",
+      "embedding_model": "intfloat/multilingual-e5-small",
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "retrieval_type": "similarity",
+      "retrieval_k": 5,
+      "hit_rate": 0.8,
+      "mrr": 0.425,
+      "total_time": 5.756234407424927
+    },
+    {
+      "embedding_name": "E5-small",
+      "embedding_model": "intfloat/multilingual-e5-small",
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "retrieval_type": "mmr",
+      "retrieval_k": 5,
+      "hit_rate": 0.9,
+      "mrr": 0.4666666666666667,
+      "total_time": 6.30125880241394
+    }
+  ]
+}
