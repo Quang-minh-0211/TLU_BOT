@@ -1,0 +1,232 @@
+{
+  "timestamp": "20251213_204049",
+  "num_configs": 16,
+  "results": [
+    {
+      "component_type": "embedding",
+      "config_name": "multilingual-MiniLM",
+      "config_details": {
+        "name": "multilingual-MiniLM",
+        "model_id": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
+      },
+      "hit_rate": 0.7,
+      "mrr": 0.57,
+      "avg_latency": 0.011286377906799316,
+      "num_chunks": 84,
+      "index_time": 1.0894711017608643
+    },
+    {
+      "component_type": "embedding",
+      "config_name": "multilingual-e5-small",
+      "config_details": {
+        "name": "multilingual-e5-small",
+        "model_id": "intfloat/multilingual-e5-small"
+      },
+      "hit_rate": 0.8,
+      "mrr": 0.75,
+      "avg_latency": 0.0076787471771240234,
+      "num_chunks": 84,
+      "index_time": 1.256147861480713
+    },
+    {
+      "component_type": "chunking",
+      "config_name": "small",
+      "config_details": {
+        "name": "small",
+        "chunk_size": 300,
+        "chunk_overlap": 50
+      },
+      "hit_rate": 0.6,
+      "mrr": 0.375,
+      "avg_latency": 0.012359547615051269,
+      "num_chunks": 140,
+      "index_time": 1.2441177368164062
+    },
+    {
+      "component_type": "chunking",
+      "config_name": "medium",
+      "config_details": {
+        "name": "medium",
+        "chunk_size": 500,
+        "chunk_overlap": 100
+      },
+      "hit_rate": 0.6,
+      "mrr": 0.37,
+      "avg_latency": 0.011831331253051757,
+      "num_chunks": 84,
+      "index_time": 0.891657829284668
+    },
+    {
+      "component_type": "chunking",
+      "config_name": "large",
+      "config_details": {
+        "name": "large",
+        "chunk_size": 1000,
+        "chunk_overlap": 200
+      },
+      "hit_rate": 0.7,
+      "mrr": 0.4033333333333333,
+      "avg_latency": 0.010511040687561035,
+      "num_chunks": 39,
+      "index_time": 0.47437262535095215
+    },
+    {
+      "component_type": "chunking",
+      "config_name": "xlarge",
+      "config_details": {
+        "name": "xlarge",
+        "chunk_size": 1500,
+        "chunk_overlap": 300
+      },
+      "hit_rate": 0.9,
+      "mrr": 0.5033333333333333,
+      "avg_latency": 0.007494091987609863,
+      "num_chunks": 27,
+      "index_time": 0.3351316452026367
+    },
+    {
+      "component_type": "retrieval",
+      "config_name": "similarity_k3",
+      "config_details": {
+        "name": "similarity_k3",
+        "search_type": "similarity",
+        "k": 3
+      },
+      "hit_rate": 0.5,
+      "mrr": 0.4,
+      "avg_latency": 0.011298799514770507,
+      "num_chunks": 84,
+      "index_time": 0
+    },
+    {
+      "component_type": "retrieval",
+      "config_name": "similarity_k3",
+      "config_details": {
+        "name": "similarity_k3",
+        "search_type": "similarity",
+        "k": 3
+      },
+      "hit_rate": 0,
+      "mrr": 0,
+      "avg_latency": 0,
+      "num_chunks": 0,
+      "index_time": 0
+    },
+    {
+      "component_type": "retrieval",
+      "config_name": "similarity_k5",
+      "config_details": {
+        "name": "similarity_k5",
+        "search_type": "similarity",
+        "k": 5
+      },
+      "hit_rate": 0.8,
+      "mrr": 0.465,
+      "avg_latency": 0.011571598052978516,
+      "num_chunks": 84,
+      "index_time": 0
+    },
+    {
+      "component_type": "retrieval",
+      "config_name": "similarity_k5",
+      "config_details": {
+        "name": "similarity_k5",
+        "search_type": "similarity",
+        "k": 5
+      },
+      "hit_rate": 0,
+      "mrr": 0,
+      "avg_latency": 0,
+      "num_chunks": 0,
+      "index_time": 0
+    },
+    {
+      "component_type": "retrieval",
+      "config_name": "similarity_k7",
+      "config_details": {
+        "name": "similarity_k7",
+        "search_type": "similarity",
+        "k": 7
+      },
+      "hit_rate": 0.9,
+      "mrr": 0.4816666666666667,
+      "avg_latency": 0.01129305362701416,
+      "num_chunks": 84,
+      "index_time": 0
+    },
+    {
+      "component_type": "retrieval",
+      "config_name": "similarity_k7",
+      "config_details": {
+        "name": "similarity_k7",
+        "search_type": "similarity",
+        "k": 7
+      },
+      "hit_rate": 0,
+      "mrr": 0,
+      "avg_latency": 0,
+      "num_chunks": 0,
+      "index_time": 0
+    },
+    {
+      "component_type": "retrieval",
+      "config_name": "mmr_k5",
+      "config_details": {
+        "name": "mmr_k5",
+        "search_type": "mmr",
+        "k": 5,
+        "fetch_k": 10
+      },
+      "hit_rate": 0.9,
+      "mrr": 0.525,
+      "avg_latency": 0.011859440803527832,
+      "num_chunks": 84,
+      "index_time": 0
+    },
+    {
+      "component_type": "retrieval",
+      "config_name": "mmr_k5",
+      "config_details": {
+        "name": "mmr_k5",
+        "search_type": "mmr",
+        "k": 5,
+        "fetch_k": 10
+      },
+      "hit_rate": 0,
+      "mrr": 0,
+      "avg_latency": 0,
+      "num_chunks": 0,
+      "index_time": 0
+    },
+    {
+      "component_type": "retrieval",
+      "config_name": "mmr_k7",
+      "config_details": {
+        "name": "mmr_k7",
+        "search_type": "mmr",
+        "k": 7,
+        "fetch_k": 15
+      },
+      "hit_rate": 0.9,
+      "mrr": 0.5476190476190477,
+      "avg_latency": 0.01351945400238037,
+      "num_chunks": 84,
+      "index_time": 0
+    },
+    {
+      "component_type": "retrieval",
+      "config_name": "mmr_k7",
+      "config_details": {
+        "name": "mmr_k7",
+        "search_type": "mmr",
+        "k": 7,
+        "fetch_k": 15
+      },
+      "hit_rate": 0,
+      "mrr": 0,
+      "avg_latency": 0,
+      "num_chunks": 0,
+      "index_time": 0
+    }
+  ]
+}
